@@ -1,4 +1,4 @@
-print '---------- WELCOME TO MORAL KOMBAT TURKEY EDITION ----------'
+print '---------- WELCOME TO MORTAL KOMBAT TURKEY EDITION ----------'
 import random
 def ask_magnitude():
     M=int(raw_input('Please type your attack magnitude:'))
